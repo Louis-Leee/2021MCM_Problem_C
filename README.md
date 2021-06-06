@@ -3,4 +3,4 @@
 
 Thanks for the cooperators cjq and yzy!
 
-The code for cellular automata will come out soon!
+The code for Inception-v3 will come out soon!
